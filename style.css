@@ -1,0 +1,33 @@
+nav{
+    display:flex;
+    justify-content: center;
+}
+
+h1{
+    display:flex;
+    justify-content: center;
+    color:red;
+}
+h2{
+    display:flex;
+    justify-content: center;
+    color:blue;
+}
+p{
+    display:flex;
+    justify-content: center;
+}
+h3{
+    display:flex;
+    justify-content: center;
+    color:orange;
+}
+ul{
+    display:flex;
+    text-align:center;
+    flex-direction: column;
+    list-style-position: inside;
+}
+li{
+    margin:2px;
+}
