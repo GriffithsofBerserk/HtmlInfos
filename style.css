@@ -13,11 +13,11 @@ h2{
     justify-content: center;
     color:blue;
 }
-p{
+.mainP{
     display:flex;
     justify-content: center;
 }
-h3{
+.mainH3{
     display:flex;
     justify-content: center;
     color:orange;
@@ -30,4 +30,14 @@ ul{
 }
 li{
     margin:2px;
+}
+ol{
+    display:flex;
+    text-align:center;
+    flex-direction: column;
+    list-style-position: inside;
+    
+}
+.infoH3{
+    color:orange;
 }
